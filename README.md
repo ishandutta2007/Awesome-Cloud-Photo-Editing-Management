@@ -30,6 +30,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
@@ -40,27 +42,22 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
+## Sector Overview & Market Dynamics
+
+The global photo editing and management software market is estimated at approximately **$1.5B – $3B+**, expanding at an 8%–10% CAGR toward broader digital creation ecosystems. The industry exhibits a dual structure: heavily **concentrated at the professional desktop/workflow tier**—where Adobe exercises dominant market power alongside specialized challengers—while remaining **moderately to highly fragmented at the consumer and mobile periphery**, where casual web utilities, mobile filter apps, and open-source alternatives continuously compete for user attention.
+
+
+
 ## SaaS/Hosted Platforms
 
-
-
-| Product | Description | Pricing | Free Tier Limit |
-
-| :--- | :--- | :--- | :--- |
-
-| **[Adobe Lightroom](https://www.adobe.com/lightroom)** | Cloud-first photo editing and management with 1TB storage. | **1TB Plan**: **$14.99/month** (annual billed monthly) or **$149.99/year** prepaid (increased from $11.99/$119.88 in March 2026) . | **7-day free trial** available on the 1TB plan . No permanent free tier. |
-
-| **[Capture One Pro](https://www.captureone.com/)** | Professional RAW editor with tethering and color grading tools. | **Subscription**: ~**¥63.08/month**; **Perpetual license**: ~**¥1,261.00** . Prices increased 6% across products in July 2026 . | **30-day free trial** available . No permanent free tier. |
-
-| **[DxO PhotoLab 10](https://www.dxo.com/)** | One-time-purchase RAW editor with AI masking and optical corrections. | **$249.99** one-time (new license); **$129.99** upgrade from PhotoLab 8 or 9 . | **30-day free trial** available . No permanent free tier. |
-
-| **[ON1 Photo RAW 2027](https://www.on1.com/)** | All-in-one editor available as perpetual or subscription. | **Perpetual**: **MX$1,947.30** (sale price, includes versions 2026 and 2027). **Subscription (MAX)**: MX$1,752.56/year . | No permanent free tier. Trial available via ON1. |
-
-| **[Skylum Luminar Neo](https://skylum.com/)** | AI-focused editor with sky replacement, relighting, and generative tools. | **Perpetual Desktop License**: **HKD 788** (sale price, includes 1 year of upgrades). Cross-device and Max tiers available . | **7-day free trial** with full access . No permanent free tier. |
-
-| **[Corel AfterShot Pro 3](https://store.aftershotpro.com/)** | Fast RAW editor with Linux support. | **HK$657.38** (sale price; regular HK$988.00) . | No free tier. Trial available. |
-
-
+| Product | Company Scale (Revenue / Valuation) | Pricing | Free Tier Limit | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Adobe Lightroom](https://www.adobe.com/lightroom)** | **$21B+ Revenue** / ~$130B–$200B+ Market Cap (Adobe Inc., Public: ADBE) | **$14.99/month** (annual billed monthly) or **$149.99/year** prepaid (Lightroom 1TB plan) | **7-day free trial** (full access with 1TB cloud storage; no permanent free tier) | Cloud-first photo editing and management with 1TB storage. |
+| **[Corel AfterShot Pro 3](https://store.aftershotpro.com/)** | **~$100M+ Revenue** / $1B+ Valuation (Alludo / KKR) | **$79.99** one-time purchase | **30-day free trial** (unrestricted full access to batch RAW workflows; no permanent free tier) | Fast RAW editor with Linux support. |
+| **[Capture One Pro](https://www.captureone.com/)** | **~$28M–$35M Revenue** (Private, Axcel) | **$24.00/month** (billed monthly), **$299.00/year**, or **$299.00** perpetual license | **30-day free trial** (unrestricted pro features and tethering; no permanent free tier) | Professional RAW editor with tethering and color grading tools. |
+| **[Skylum Luminar Neo](https://skylum.com/)** | **~$18M–$20M Revenue** (Private) | **$11.95/month**, **$79.00/year**, or **$199.00** perpetual desktop license | **7-day free trial** (full access to generative and AI editing tools; no permanent free tier) | AI-focused editor with sky replacement, relighting, and generative tools. |
+| **[DxO PhotoLab 10](https://www.dxo.com/)** | **~$12M–$18M Revenue** (Private, VC/PE backed) | **$249.99** one-time new license (**$129.99** upgrade from PhotoLab 8/9) | **30-day free trial** (fully functional with no watermark and no credit card required; no permanent free tier) | One-time-purchase RAW editor with AI masking and optical corrections. |
+| **[ON1 Photo RAW 2027](https://www.on1.com/)** | **~$3M–$5M Revenue** (Private) | **$99.99** one-time perpetual license or **$89.99/year** subscription (MAX edition) | **30-day free trial** (complete uninhibited access to all AI tools, layers, and masking; no permanent free tier) | All-in-one editor available as perpetual or subscription. |
 
 ## Open-Source GitHub Projects
 
